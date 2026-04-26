@@ -1,4 +1,9 @@
 <Solution>
+<Folder Name="/docs/">
+<File Path="docs/best-practices.md" />
+<File Path="docs/cloude-collaboration-protocol.md" />
+<File Path="docs/IBKR Effective Cost Basis Engine .md" />
+</Folder>
   <Folder Name="/src/">
     <Project Path="src/Portfolio.Api/Portfolio.Api.csproj" />
     <Project Path="src/Portfolio.Application/Portfolio.Application.csproj" />
