@@ -170,8 +170,8 @@ Obsługuje:
 
 Taski:
 
-1. Skonfiguruj solution .NET 8  
-2. Dodaj projekty warstwowe  
+1. Skonfiguruj solution .NET 10 **DONE**
+2. Dodaj projekty warstwowe  **DONE**
 3. Dodaj integrację z IBKR API  
 4. Pobieraj pozycje akcyjne  
 5. Pobieraj executions opcyjne  
